@@ -41,6 +41,7 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: Thenmozhi P
 RegisterNumber:  212221230116
 */
+````
 1. Program to design a half adder:
 
 module ex3(a,b,sum,carry);
@@ -58,14 +59,15 @@ output sum,carry;
 assign sum=a^b^cin;
 assign carry=(a&b)|((a^b)&cin);
 endmodule
-
+`````
 Truthtable:
 
 half adder Truthtable:
 
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/5eb8cf7a-4aa1-4b93-b0c5-9bcf78499c09)
 
-full adder:
+full adder:\
+
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/6b929f04-ad57-4fcc-a2a9-113d46513170)
 
 RTL realization

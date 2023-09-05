@@ -60,25 +60,33 @@ assign carry=(a&b)|((a^b)&cin);
 endmodule
 
 Truthtable:
+
 half adder Truthtable:
+
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/5eb8cf7a-4aa1-4b93-b0c5-9bcf78499c09)
 
 full adder:
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/6b929f04-ad57-4fcc-a2a9-113d46513170)
 
 RTL realization
+
 Half adder:
+
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/880a40ac-822d-4fd8-8d7d-85370f9e19ba)
 
 
 full adder:
+
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/1d0cd8ae-6dc3-4601-9f2c-b313782617fb)
 
 ### Output waveform:
-half adder
+
+half adder:
+
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/483d56b8-3f55-4a44-9893-f1231531d188)
 
 full adder:
+
 ![image](https://github.com/Balaji-jj/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/142155013/684419de-d236-4769-92cc-b1c20582d059)
 
 ### Result:
